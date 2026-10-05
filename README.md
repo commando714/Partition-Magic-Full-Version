@@ -239,4 +239,4 @@ This repository serves as the official landing page for Partition Magic. The sof
 **Get the most recent version of Partition Magic today!**
 
 ---
-**Last updated:** 2026-10-05 08:34:27 UTC
+**Last updated:** 2026-10-05 18:03:30 UTC
